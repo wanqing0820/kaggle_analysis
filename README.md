@@ -2,7 +2,7 @@
 
 > An analysis of a dataset from Kaggle of around 7000 Telco customers.
 
-- Objective : This analysis is done to understand customer churn behavior, and subsequently predict the users who are more likely to churn based on the the features of the customers who churned and those who stay utilized supervised learning, balancing and resampling of data, regressor, classifier, etc.
+- Objective : This analysis is done to understand customer churn behavior, and subsequently predict the users who are more likely to churn based on the the features of the customers who churned and those who stay utilizing supervised learning, balancing and resampling of data, regressor, classifier, etc.
 
 > How to run this locally?
 
